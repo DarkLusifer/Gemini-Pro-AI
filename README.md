@@ -1,5 +1,4 @@
 # Gemini-Pro-AI
-<br><br>
 `pip install -q -U google-generativeai`
 <br><br>
 Generate API KEY in [Here](https://makersuite.google.com/app/apikey)
